@@ -12,7 +12,6 @@ System.out.println("Enter available seat single seat or double seat :");
 String seat = s.next();
 if(amount<=1000 && seat.equals("single seat")){
      System.out.println("Booking tickets on bus");
-System.out.println("Idily,Dosa,Pongal,Vadai,Idiyappam");
 }
 else
 {

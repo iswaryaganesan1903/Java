@@ -15,7 +15,7 @@ if(mail.equals("admin@123") && number.equals("1234567890"))
    String name=s.nextLine();
    System.out.println("Enter password:");
    String pass=s.nextLine();
-   if(name.equals("Iswarya") && pass.equals("ishu123"))
+   if(name.equals("Iswarya") && pass.equals("iswarya123"))
   {
    System.out.println("Verified successful.go to home page. ");
   }
